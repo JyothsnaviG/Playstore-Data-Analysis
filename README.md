@@ -6,6 +6,7 @@ In this project, you will be working on a real-world dataset of the google plays
 
 ### Input Files:
 playstore_apps.csv - It contains the basic details of the app like number of user reviews, ratings, etc.
+
 playstore_reviews.csv - It contains the user reviews and its sentiment score for the respective app.
 
 
